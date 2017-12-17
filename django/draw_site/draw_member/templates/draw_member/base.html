@@ -1,0 +1,18 @@
+{# draw_member/templates/draw_member/base.html #}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{% block title %}抽籤系統{% endblock title %}</title>
+</head>
+<body>
+{% block content %}{% endblock content %}
+<hr>
+<h3>功能列</h3>
+<ul>
+  <li><a href="{% url 'home' %}">首頁（抽籤）</a></li>
+  <li><a href="{% url 'history' %}">歷史記錄</a></li>
+</ul>
+</body>
+</html>

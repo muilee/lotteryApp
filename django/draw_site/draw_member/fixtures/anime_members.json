@@ -1,0 +1,114 @@
+[
+{
+    "model": "draw_member.member",
+    "pk": 1,
+    "fields": {
+        "name": "\u9ad8\u5742 \u7a42\u4e43\u679c",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 2,
+    "fields": {
+        "name": "\u7d62\u702c \u7d75\u91cc",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 3,
+    "fields": {
+        "name": "\u5357 \u3053\u3068\u308a",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 4,
+    "fields": {
+        "name": "\u5712\u7530 \u6d77\u672a",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 5,
+    "fields": {
+        "name": "\u661f\u7a7a \u51db",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 6,
+    "fields": {
+        "name": "\u897f\u6728\u91ce \u771f\u59eb",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 7,
+    "fields": {
+        "name": "\u6771\u689d \u5e0c",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 8,
+    "fields": {
+        "name": "\u5c0f\u6cc9 \u82b1\u967d",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 9,
+    "fields": {
+        "name": "\u77e2\u6fa4 \u306b\u3053",
+        "group_name": "\u03bc's"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 10,
+    "fields": {
+        "name": "\u5e73\u6ca2 \u552f",
+        "group_name": "K-ON!"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 11,
+    "fields": {
+        "name": "\u79cb\u5c71 \u6faa",
+        "group_name": "K-ON!"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 12,
+    "fields": {
+        "name": "\u7530\u4e95\u4e2d \u5f8b",
+        "group_name": "K-ON!"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 13,
+    "fields": {
+        "name": "\u7434\u5439 \u7d2c",
+        "group_name": "K-ON!"
+    }
+},
+{
+    "model": "draw_member.member",
+    "pk": 14,
+    "fields": {
+        "name": "\u4e2d\u91ce \u6893",
+        "group_name": "K-ON!"
+    }
+}
+]

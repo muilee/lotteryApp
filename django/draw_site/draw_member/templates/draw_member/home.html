@@ -1,0 +1,14 @@
+{# draw_member/home.html #}
+{% extends 'draw_member/base.html' %}
+
+{% block content %}
+  <h1>來抽籤吧！</h1>
+  <p>選擇要被抽的團體</p>
+  <form action="{% url 'draw' %}" method="get">
+    {{ form.group.label_tag }}
+    {% for radio in form.group %}
+      {{ radio.tag }}{{ radio.choice_label }}
+    {% endfor %}
+    <input type="submit" value="Submit">
+  </form>
+{% endblock content %}
